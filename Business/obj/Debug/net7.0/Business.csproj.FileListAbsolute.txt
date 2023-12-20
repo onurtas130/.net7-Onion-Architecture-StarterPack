@@ -1,0 +1,17 @@
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\bin\Debug\net7.0\Business.dll
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\bin\Debug\net7.0\Application.dll
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\bin\Debug\net7.0\Domain.dll
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\bin\Debug\net7.0\Application.pdb
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\bin\Debug\net7.0\Domain.pdb
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\Business.dll
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\onurt\Masaüstü\Elişi\ElİşiECommerceApi\Business\obj\Debug\net7.0\ref\Business.dll
